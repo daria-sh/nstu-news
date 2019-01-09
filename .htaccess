@@ -1,0 +1,2 @@
+addDefaultCharset none
+php_value output_buffering 32000
